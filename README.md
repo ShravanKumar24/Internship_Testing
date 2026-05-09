@@ -1,5 +1,5 @@
 # ============================================================
-      Internship_Testing (Web App QA Project)
+      Internship_Testing (Web App QA Project - Ecommerce)
 # ============================================================
 
 # 🧪 Web Application QA Testing Project
